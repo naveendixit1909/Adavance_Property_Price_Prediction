@@ -1,2 +1,2 @@
-# Adavance_Property_Price_Prediction
+# Advance_Property_Price_Prediction
 Property price prediction using
